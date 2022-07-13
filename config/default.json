@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://root:root@vlados.kar2l.mongodb.net/?retryWrites=true&w=majority" ,
+    "port": "5000",
+    "jwtSecret":"robocode"
+
+}

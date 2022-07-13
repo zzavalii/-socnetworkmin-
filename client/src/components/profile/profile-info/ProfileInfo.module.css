@@ -1,0 +1,21 @@
+.cat{
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10px;
+}
+.profile{
+    padding: 2rem;
+    margin: 0 1.5rem auto;
+    margin-top: 1rem;
+    background-color: rgb(0,0,0,0.3);
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: row;
+    height: 13rem;
+}
+p{
+    font-weight: bold;
+}
+.about{
+    margin-left: 1rem;
+}

@@ -1,0 +1,24 @@
+body{
+  background-image: url("https://krot.info/uploads/posts/2021-02/1614131075_28-p-zadnii-fon-v-minimalizme-33.jpg");
+  background-size: cover;
+}
+.container{
+  display: flex;
+  height: 100vh;
+  margin: 0 8rem auto;
+}
+
+.left{
+  width: 15rem;
+  background-color: rgba(37, 105, 68, 0.952);
+}
+
+.right{
+  flex: 1;
+  background-color: rgba(69, 95, 67, 0.897);
+}
+h1{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

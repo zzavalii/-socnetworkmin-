@@ -1,0 +1,20 @@
+.dialog_list {
+    background-color: rgba(37, 105, 68, 0.747);
+    height: 100vh;
+}
+.item{
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+    padding: 0.4rem 0.9rem;
+    height: 20px;
+    border-radius: 2rem;
+    background-color: rgba(49, 35, 35, 0.295);
+}
+.dialog_list ul{
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
